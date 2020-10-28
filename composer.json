@@ -1,0 +1,12 @@
+{
+    "name": "zhange/helloword",
+    "authors": [
+        {
+            "name": "zhange",
+            "email": "kenphp@yeah.net",
+            "homepage": "https://www.iszhange.com",
+            "role": "管理者"
+        }
+    ],
+    "description": "这是一个Composer依赖包开发示例"
+}
