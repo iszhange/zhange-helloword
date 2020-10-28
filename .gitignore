@@ -3,3 +3,4 @@ composer.phar
 
 .gitignore
 .idea
+composer.lock

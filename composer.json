@@ -8,5 +8,22 @@
             "role": "管理者"
         }
     ],
-    "description": "这是一个Composer依赖包开发示例"
+    "description": "这是一个Composer依赖包开发示例",
+    "keywords": [
+        "张哥",
+        "helloword"
+    ],
+    "type": "library",
+    "license": ["MIT"],
+    "support": {
+        "email": "kenphp@yeah.net"
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhange\\HelloWord\\": "src/"
+        }
+    }
 }
