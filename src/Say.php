@@ -15,7 +15,7 @@ class Say implements SayInterface
 
     public function hello()
     {
-        $this->locale->hello();
+        return $this->locale->hello();
     }
 
     public function setLocale(SayInterface $language)

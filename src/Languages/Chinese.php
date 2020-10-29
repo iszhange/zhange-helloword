@@ -11,6 +11,6 @@ class Chinese implements Say
 
     public function hello()
     {
-        echo "大家好!\n";
+        return "大家好!";
     }
 }

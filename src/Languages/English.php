@@ -11,6 +11,6 @@ class English implements Say
 
     public function hello()
     {
-        echo "Hi,guys!\n";
+        return "Hi,guys!";
     }
 }
